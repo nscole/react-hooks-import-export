@@ -1,3 +1,5 @@
+
+
 function colors() {
   console.log("Scarlet and Gold");
 }
@@ -10,4 +12,4 @@ function gryffMascot() {
   console.log("The Lion");
 }
 
-export { colors, gryffMascot };
+export { colors, gryffMascot, values };
